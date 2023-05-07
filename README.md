@@ -1,4 +1,4 @@
-# [Prompt cheat sheet for OpenAi's ChatGPT 4](#prompt)
+# [Prompt cheat sheet for OpenAi's ChatGPT 4](#prompts)
 ## [psource](https://github.com/frederikstroem/prompt-cheat-sheet/blob/main/psource.py)
 Prints the source code of files recursively in the current directory, easy for ChatGPT to digest.
 
