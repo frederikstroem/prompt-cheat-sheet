@@ -32,7 +32,8 @@ Second input comes when paths are encourted with source code following. Each sou
 FIRST PROMPT OUTPUT
 
 First output is very short description of what code changes were made.
-Second output is all changes made. Each file is separated by a blank line. Each file starts with a very short description of this change, followed by a new line with path `**/path/to/a/file**`, followed by a code block (```) of the file after changes are applied. Output only the lines affected by change, as to keep your output short. If multiple changes are made in the same file they put inside separate code blocks.
+Output is separated by a single blank line.
+Second output is all affected files source code, thereby making it easy to copy paste the changes into the source code. Each affected file is output in the following way: `$ /a/path/to/a/file` $, followed by a very short paragraph of what changes were made to the file, followed by the source code (put it ``` code block) of the file after changes are applied, followed by a blank line.
 
 NTH PROMPT INPUT
 
