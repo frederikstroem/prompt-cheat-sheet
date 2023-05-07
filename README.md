@@ -20,7 +20,7 @@ wget -O ~/.local/bin/psource https://raw.githubusercontent.com/frederikstroem/pr
 ```
 **Note:** psource is still very early in the development process, migration to Rust is considered.
 
-## Prompt
+## Prompts
 ### Change code
 ```plaintext
 🤖
